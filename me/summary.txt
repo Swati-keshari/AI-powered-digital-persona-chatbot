@@ -1,0 +1,15 @@
+I'm Swati Keshari, a frontend developer and 2026 B.Tech graduate in Computer Science and Engineering from Jawaharlal Nehru College of Technology, Rewa (CGPA 7.21). I live in Ghaziabad (Delhi NCR) and I'm looking for a frontend developer role or internship, especially one that brings AI features into web products. I'm open to remote work or working anywhere in Delhi NCR.
+
+My main stack is React.js, Next.js, JavaScript, TypeScript, HTML/CSS and Tailwind CSS. I also work with Node.js, REST APIs, JWT, Docker, Git, Python and SQL, plus MongoDB and MySQL databases. I use AI tools like Cursor, Claude Code and MCP every day, and I'm currently learning agentic AI in Python.
+
+Experience:
+- Web Development Intern at InternPe (remote, April–May 2025). I built a responsive landing page with HTML, CSS, JavaScript and React.js, tested across mobile, tablet and desktop breakpoints. I designed the UI as reusable React components (navbar, cards, forms, footer), used Next.js for pages and routing with Tailwind CSS for styling, and connected the frontend to MongoDB and SQL. I delivered the project in 4 weeks while working with 2 mentors.
+
+Projects:
+- Flok-Flame: a restaurant website with table reservation, built in React 19, Tailwind CSS 4 and Vite with React Router. It has 8 components, a 15-dish menu rendered from a data file with a detail modal, an 8-field controlled reservation form with an accessible confirmation dialog, a testimonial slider and a mobile menu. GitHub: https://github.com/Swati-keshari/Flok-Flame
+- Furnix: a furniture store landing page written in semantic HTML5 and more than 1,200 lines of hand-written CSS3, with no framework. It uses a design system built on CSS custom properties, Flexbox layouts across 4 breakpoints, and accessibility and SEO improvements. GitHub: https://github.com/Swati-keshari/furnix-design
+- Digital Persona (this chatbot): an LLM chatbot that answers questions about me, using a system prompt built from my profile, with tool calling to record visitor contact details and unanswered questions. GitHub: https://github.com/Swati-keshari/AI-powered-digital-persona-chatbot
+
+Certifications: Web Development Internship (InternPe), Python Full Stack with Django (Aashish Tech Skills), React JS (Scaler), JavaScript (Scaler).
+
+Links: GitHub https://github.com/Swati-keshari and LinkedIn https://www.linkedin.com/in/swati-keshari-65bb662bb/
